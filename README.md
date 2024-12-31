@@ -12,7 +12,9 @@ This comprehensive guide walks you through every step, including:
   
 Whether you're passionate about DIY battery projects or curious about LiFePO4 technology, this tutorial provides valuable insights into creating a safe, efficient, and long-lasting battery pack.
 
+
 👉 Watch the Full Build on YouTube
+
 👉 Read the Full Portfolio Here
 
 Feel free to explore, comment, and share your thoughts!
