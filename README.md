@@ -9,7 +9,7 @@ This comprehensive guide walks you through every step, including:
 - Wiring and soldering with durable copper cables.
 - Upgrading to robust XT-60 connectors for secure and reliable connections.
 - Installing a charge and voltage display for real-time monitoring.
-- 
+  
 Whether you're passionate about DIY battery projects or curious about LiFePO4 technology, this tutorial provides valuable insights into creating a safe, efficient, and long-lasting battery pack.
 
 👉 Watch the Full Build on YouTube
